@@ -1,0 +1,6 @@
+/razorpay-backend/node_modules
+/razorpay-backend/.env
+
+/razorpay-frontend/node_modules
+/razorpay-frontend/build
+/razorpay-frontend/.env
